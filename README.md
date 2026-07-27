@@ -35,22 +35,3 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vdnaresh143&show_icons=true&theme=tokyonight&count_private=true" alt="vdnaresh143" width="48%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdnaresh143&layout=compact&theme=tokyonight" alt="vdnaresh143" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdnaresh143&theme=tokyonight" alt="vdnaresh143" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vdnaresh143&label=Profile%20Views&color=0e75b6&style=flat" alt="vdnaresh143" />
-</p>
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vdnaresh143&theme=tokyonight&column=7" alt="trophies"/>
-</p>
